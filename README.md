@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-*** Glad you found me!!
+# Glad you found me!! - Prakhathi
+
 Right after undergrad, I worked as a web developer that’s when I discovered my interest in developing web & mobile applications. From building websites, consuming API to building API, I stumbled, learned, and evolved. Throughout my experience, the one thing I have taken to my heart is to always think of the ways to build a reusable optimized component. I have built various Multiplatform responsive customer-facing web solutions using modern Javascript frameworks which include ReactJs, Redux, NodeJs.
