@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **prakhathi-m/prakhathi-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Glad you found me!! - Prakhathi
+# Glad you found me!!
 
-Right after undergrad, I worked as a web developer that’s when I discovered my interest in developing web & mobile applications. From building websites, consuming API to building API, I stumbled, learned, and evolved. Throughout my experience, the one thing I have taken to my heart is to always think of the ways to build a reusable optimized component. I have built various Multiplatform responsive customer-facing web solutions using modern Javascript frameworks which include ReactJs, Redux, NodeJs.
+## About Me
+
+I'm a graduate student pursuing Masters in Computer Science at University at Buffalo, SUNY. I love building web and mobile applications. I enjoy working with Javascrpit framework includes **ReactJs, Redux-Saga, NodeJs, React-Native** and scripting language such as **Python**.
+
+*Few stats of my GitHub Usage [Private repos are not counted in]*
+![Prakhathi's github stats](https://github-readme-stats.vercel.app/api?username=prakhathi-m&show_icons=true&count_private=true&hide=stars,issues)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhathi-m)](https://github.com/anuraghazra/github-readme-stats)
+
+## Get in Reach out
+
+* Send me a connection in [Linkedin](https://www.linkedin.com/in/prakhathimurugesan/) :briefcase:
+* Shoot out a [mail] (prakhathi@gmail.com) :envelope_with_arrow:
+* Visit my [personal website](https://prakhathi-m.github.io/portfolio/) :satellite:
