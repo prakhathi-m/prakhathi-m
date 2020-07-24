@@ -23,9 +23,8 @@ I'm a graduate student pursuing Masters in Computer Science at University at Buf
 
 *Few stats of my GitHub Usage [Private repos are not counted in]*
 
-![Prakhathi's github stats](https://github-readme-stats.vercel.app/api?username=prakhathi-m&show_icons=true&count_private=true&hide=stars,issues)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhathi-m)](https://github.com/anuraghazra/github-readme-stats)
+![Prakhathi's github stats](https://github-readme-stats.vercel.app/api?username=prakhathi-m&show_icons=true&count_private=true&hide=stars,issues)
 
 ## Get in Reach out
 
