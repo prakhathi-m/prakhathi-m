@@ -27,5 +27,5 @@ I'm a graduate student pursuing Masters in Computer Science at University at Buf
 ## Get in Reach out
 
 * Send me a connection in [Linkedin](https://www.linkedin.com/in/prakhathimurugesan/) :briefcase:
-* Shoot out a [mail] (prakhathi@gmail.com) :envelope_with_arrow:
+* Shoot out a [mail](prakhathi@gmail.com) :envelope_with_arrow:
 * Visit my [personal website](https://prakhathi-m.github.io/portfolio/) :satellite:
