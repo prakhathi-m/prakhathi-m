@@ -24,7 +24,7 @@ I'm a graduate student pursuing Masters in Computer Science at University at Buf
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhathi-m)](https://github.com/anuraghazra/github-readme-stats)
 ![Prakhathi's github stats](https://github-readme-stats.vercel.app/api?username=prakhathi-m&show_icons=true&count_private=true&hide=stars,issues)
 
-## Get in Reach out
+## Reach out to me
 
 * Send me a connection in [Linkedin](https://www.linkedin.com/in/prakhathimurugesan/) :briefcase:
 * Shoot out a [mail](prakhathi@gmail.com) :envelope_with_arrow:
